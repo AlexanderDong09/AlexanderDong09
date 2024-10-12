@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AlexanderDong09
-- I don't know how to sign out of Windows
+- Hi, I’m Alex.
+- how do you code
 - My fun fact of the day is that Win+L will lock your windows session immediately
 
 <!---
